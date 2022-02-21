@@ -1,2 +1,2 @@
 # clean-react
-Sistema em ReactJs usando Hooks, Typescript, TDD, Clean Architecture, Design Patterns e SOLID principles
+ReactJs system using Hooks, Typescript, TDD, Clean Architecture, Design Patterns and SOLID principles
